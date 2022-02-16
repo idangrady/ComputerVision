@@ -22,7 +22,6 @@ understands the components and the learning mechanisms of convolutional neural n
 understands the training of CNNs, and is able to develop and evaluate CNNs for image and video classification tasks.       
 Assessment
  
-Inhoud
 This course is about the algorithms and mechanisms to extract and classify information from images and video.
 The course combines theory and practice, with two themes: multi-view reconstruction and CNN image/video classification.
 
