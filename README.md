@@ -1,7 +1,8 @@
 # ComputerVision
  
 ## Course ID
-Utrecht University INFOMCV\\
+Utrecht University INFOMCV 
+
 https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2021&cursus=INFOMCV 
 
 ## Course Discribtion
