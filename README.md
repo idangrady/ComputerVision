@@ -21,12 +21,7 @@ understands and able to express the performance of classification and detection 
 understands the components and the learning mechanisms of convolutional neural networks (CNN).
 understands the training of CNNs, and is able to develop and evaluate CNNs for image and video classification tasks.       
 Assessment
-Final exam (40% of the final mark), assignments (60%)
-
-Prerequisites
-(Basic) knowledge and experience of programming in Python.
  
-
 Inhoud
 This course is about the algorithms and mechanisms to extract and classify information from images and video.
 The course combines theory and practice, with two themes: multi-view reconstruction and CNN image/video classification.
