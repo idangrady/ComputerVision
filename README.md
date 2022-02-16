@@ -34,4 +34,4 @@ The course combines theory and practice, with two themes: multi-view reconstruct
 C++, Python
 
 ## Team
-Vlad Kalyuzhnyy (Vlad-2299)and Idan Grady
+Vlad Kalyuzhnyy (Vlad-2299) and Idan Grady
