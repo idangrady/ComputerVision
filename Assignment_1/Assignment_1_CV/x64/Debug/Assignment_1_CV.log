@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\github_\Computer_Vision\CV-Assingment1\Vlad\Assignment_1_CV\Assignment_1_CV\Main.cpp(378,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\github_\Computer_Vision\CV-Assingment1\Vlad\Assignment_1_CV\Assignment_1_CV\Main.cpp(409,18): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Assignment_1_CV.vcxproj -> D:\github_\Computer_Vision\CV-Assingment1\Vlad\Assignment_1_CV\x64\Debug\Assignment_1_CV.exe
