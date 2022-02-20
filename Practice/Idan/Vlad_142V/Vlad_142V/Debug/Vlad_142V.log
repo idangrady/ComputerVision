@@ -1,0 +1,43 @@
+﻿  Vlad_142V.cpp
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(214,20): warning C4018: '<': signed/unsigned mismatch
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(237,27): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(237,40): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(237,71): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(237,2): error C3861: 'calcBoardCornerPositions': identifier not found
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(238,18): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(246,6): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(249,12): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(261,18): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(264,4): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(264,13): error C2065: 'CALIB_USE_LU': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(262,9): error C3861: 'calibrateCameraRO': identifier not found
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(270,24): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(271,24): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(271,45): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(282,27): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(281,16): error C2660: 'computeReprojectionErrors': function does not take 7 arguments
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(124,15): message : see declaration of 'computeReprojectionErrors'
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(287,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(325,77): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(325,66): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(325,113): error C2065: 'imagePoints': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(326,31): error C2065: 'grid_width': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(326,43): error C2065: 'release_object': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(330,21): error C2065: 's': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(330,24): error C2065: 'imageSize': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(330,35): error C2065: 'cameraMatrix': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(330,49): error C2065: 'distCoeffs': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(330,87): error C2065: 'imagePoints': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(330,4): error C3861: 'saveCameraParams': identifier not found
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(332,8): error C2371: 'totalAvgErr': redefinition; different basic types
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(322): message : see declaration of 'totalAvgErr'
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(332,48): error C2065: 'objectPoints': undeclared identifier
+D:\github_\ComputerVision\Practice\Idan\Vlad_142V\Vlad_142V\Vlad_142V.cpp(332,62): error C2065: 'imagePointsL': undeclared identifier
