@@ -1,0 +1,59 @@
+﻿  VoxelReconstruction.cpp
+  Glut.cpp
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(866,39): warning C4244: 'return': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(877,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(940,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(984,7): warning C4101: 'major_lbl': unreferenced local variable
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1226,15): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1232,15): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1238,15): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1241,15): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1243,15): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1336,14): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1342,14): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1348,14): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1351,14): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1353,14): warning C4305: '=': truncation from 'double' to 'float'
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1412,61): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1412,47): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1507,62): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Glut.cpp(1507,48): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  Reconstructor.cpp
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Reconstructor.cpp(208,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Reconstructor.cpp(292,65): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\src\controllers\Reconstructor.cpp(299,65): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  Scene3DRenderer.cpp
+D:\Libraries\OpenCVDownload\opencv\build\include\opencv2\flann\result_set.h(309,77): warning C4003: not enough arguments for function-like macro invocation 'max'
+D:\Libraries\OpenCVDownload\opencv\build\include\opencv2\flann\result_set.h(431,62): warning C4003: not enough arguments for function-like macro invocation 'max'
+D:\Libraries\OpenCVDownload\opencv\build\include\opencv2\flann\lsh_index.h(208,75): warning C4003: not enough arguments for function-like macro invocation 'max'
+D:\Libraries\OpenCVDownload\opencv\build\include\opencv2\flann\lsh_index.h(274,75): warning C4003: not enough arguments for function-like macro invocation 'max'
+  Generating Code...
+  VoxelReconstruction.vcxproj -> D:\github_\Zip\CV-Assingment_2_\Vlad - Copy\x64\Debug\VoxelReconstruction.exe
