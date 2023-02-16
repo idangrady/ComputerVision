@@ -15,7 +15,7 @@ Folder Structure:
 * Assignment 4: CNN Model Training and Validation
 * Assignment 5: Action Recognition
 
-*Outputs : collection of output images
+* Outputs : collection of output images
 
 Assignment 1 involves image calibration, while Assignment 2 focuses on 3D voxel-based reconstruction with a task description including the quality of intrinsics, extrinsics, and background subtraction. Assignment 3 builds on the previous work and requires the creation of a color model for each person in a video and labeling voxels based on this color model. Assignment 4 covers CNN model training and validation, and Assignment 5 focuses on action recognition in still images and videos using transfer learning, optical flow, and CNN outputs.	
 
