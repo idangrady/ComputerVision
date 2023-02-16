@@ -1,9 +1,10 @@
 # ComputerVision
- 
-## Course ID
-Utrecht University INFOMCV 
 
-https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2021&cursus=INFOMCV 
+<div style="display:flex;">
+<img src="https://user-images.githubusercontent.com/63195210/219507984-8b4d5206-83b4-47b1-a6a7-faf63ed24ac6.png" width="250" height = "250">
+<img src="https://user-images.githubusercontent.com/63195210/219508309-8c24eeab-d517-4d81-8de0-4aa3989ee810.png" width="350"  height = "250">
+<img src="https://user-images.githubusercontent.com/63195210/219508425-20f2e3ce-c079-4cdc-968f-0e5a04d341e2.jpg" width="350"  height = "250">
+</div>
 
 ## Course Discribtion
 	
@@ -24,6 +25,11 @@ Assessment
  
 This course is about the algorithms and mechanisms to extract and classify information from images and video.
 The course combines theory and practice, with two themes: multi-view reconstruction and CNN image/video classification.
+
+## Course ID
+Utrecht University INFOMCV 
+https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2021&cursus=INFOMCV 
+
 
 ## Programming Languages
 C++, Python
